@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics Project 
 
-Welcome to the **Data Warehouse and Analytics Project** repository! :snowflake: 
+Welcome to the **Data Warehouse and Analytics Project** repository! ❄️: 
 
 ### This project highlights a complete data warehousing and analytics solution, from constructing the warehouse to providing actionable insights. As a portfolio project, it demonstrates current best practices in data engineering and analytics.
 ---
@@ -31,8 +31,12 @@ Develop SQL-based analytics to deliver detailed insights into;
 
 These insights give stakeholders the metrics they need to make strategic decisions.
 
-## :pineapple: License
+## 🍍License
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
-## :wave: About Me 
+## 🔥 Notion Template
+The template is used to track the project's progress.
+https://www.notion.so/Data-Warehouse-Project-36398e138f92804da543cce8a3325bfb?source=copy_link
+
+## 👋 About Me 
 Hey there, I'm **Shiran**, a Commercial Ops Leader exploring the exciting field of Data Engineering and Analytics.
