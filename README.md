@@ -1,6 +1,6 @@
-# Data Warehouse and Analytics Project :snowflake: 
+# Data Warehouse and Analytics Project 
 
-Welcome to the **Data Warehouse and Analytics Project** repository! 
+Welcome to the **Data Warehouse and Analytics Project** repository! :snowflake: 
 
 ### This project highlights a complete data warehousing and analytics solution, from constructing the warehouse to providing actionable insights. As a portfolio project, it demonstrates current best practices in data engineering and analytics.
 ---
