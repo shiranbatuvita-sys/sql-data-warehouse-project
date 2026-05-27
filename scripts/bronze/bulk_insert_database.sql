@@ -3,20 +3,20 @@
 LOADING DATA INTO BRONZE LAYER TABLES
 =======================================
 Script Purpose: 
-	The purpose of this script is to load data into the bronze 
-	layer tables of the data warehouse. The script uses the BULK INSERT 
-	command to efficiently load data from CSV files into the respective 
-	tables. 
+	The script is a stored procedure designed to load data into the 
+	bronze layer tables of a data warehouse.
+
+	- The script uses the BULK INSERT command to load data efficiently 
+	  from CSV files into the respective tables. 
 	
-	It also includes error handling to catch and report any issues that 
-	occur during the loading process.
+	- Error handling is included to catch and report any issues that 
+	  occur during the loading process.
 
-	The script is designed to be executed as a stored procedure, allowing 
-	for easy scheduling and automation of the data loading process.
+	- The script is designed to be executed as a stored procedure, allowing 
+	  for easy scheduling and automation of data loading.
 
-	Print statements are used to easily identify the progress of the loading 
-	process and to log the duration of each step, as well as the overall 
-	load duration.
+The procedure can be executed using the following command:
+EXECUTE bronze.local_bronze;
 
 */
 
@@ -154,4 +154,3 @@ BEGIN
 END
 ;
 
-EXECUTE bronze.local_bronze;
