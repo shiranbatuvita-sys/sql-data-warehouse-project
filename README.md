@@ -128,7 +128,7 @@ Hi, I'm **Shiran**, a Commercial Operations Leader sharpening skills in Data Eng
 
 This project reflects my hands-on approach to learning: building real, structured solutions that mirror industry practices rather than following tutorials passively.
 
-📬 [Connect with me on LinkedIn](https://www.linkedin.com/in/shiran-batuvita/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shiran%20Batuvita-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shiran-batuvita/)
 
 ---
 
